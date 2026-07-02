@@ -5,6 +5,8 @@ Based on my [old plugin](https://github.com/voazye/battlefield-companion-QOL).
 A full-featured toolkit for the Battlefield Companion emblem editor (companion.battlefield.com).  
 It restores the disabled rotation handle and adds a floating control panel with precise transform controls, undo/redo, alignment tools, and a reference image overlay.
 
+![Screenshot of the Menu](https://i.imgur.com/4wGwFxd.png)
+
 ## Features
 
 - Restores the rotation handle for any selected shape (hold **Shift** to temporarily disable 45° snapping).
