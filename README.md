@@ -28,7 +28,7 @@ It is available on the Firefox Add‑on Store:
 https://addons.mozilla.org/en-US/firefox/addon/bf-companion-utilities/
 
 For manual installation (development):  
-- Download this repository as a `.zip` file.
+- Download the [latest release](https://github.com/voazye/BF-Companion-Utilities/releases/tag/v1.2).
 - Open Firefox and go to `about:debugging`.
 - Click **"Load Temporary Add‑on"** and select the `.zip` file.  
   *(The add‑on will be removed when you close the browser.)*
