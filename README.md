@@ -7,6 +7,8 @@ It restores the disabled rotation handle and adds a floating control panel with 
 
 ![Screenshot of the Menu](https://i.imgur.com/4wGwFxd.png)
 
+<hr>
+
 ## Features
 
 - Restores the rotation handle for any selected shape (hold **Shift** to temporarily disable 45° snapping).
@@ -35,10 +37,14 @@ For manual installation (development):
 - Click **"Load Temporary Add‑on"** and select the `.zip` file.  
   *(The add‑on will be removed when you close the browser.)*
 
+<hr>
+
 ## Privacy
 
 This extension does not collect, store, or transmit any user data.  
 All settings (position, image overlay, etc.) are stored locally in your browser's `localStorage`.
+
+<hr>
 
 ## Support
 
